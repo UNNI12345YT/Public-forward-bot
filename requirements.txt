@@ -1,4 +1,4 @@
 pyrofork
-motor
+motor==3.4.0
 TgCrypto
 Dnspython
